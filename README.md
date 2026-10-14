@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="160" alt="canary-mcp logo" />
+</p>
+
 # canary-mcp
 
 A visual canary for detecting context rot and silent model degradation in long agent conversations.
